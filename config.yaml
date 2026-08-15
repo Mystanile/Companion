@@ -1,0 +1,18 @@
+hotkey: "`"
+# Hold the key above to talk. Release to send.
+
+overlay:
+  size: 72
+  orb_size: 56
+  left_margin: 28
+  bottom_margin: 28
+
+voice:
+  stt_model: whisper-large-v3-turbo
+  llm_model: llama-3.3-70b-versatile
+  tts_voice: en-US-AriaNeural
+
+paths:
+  # Tools can read/write anywhere under these roots (your user profile by default).
+  allowed_roots:
+    - "~"
