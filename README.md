@@ -21,7 +21,6 @@ An AI-powered voice-controlled desktop assistant for Windows that understands na
 - **🛠️ Desktop Tools**: The assistant can:
   - Open files and folders
   - Open URLs and links
-  - Launch files in your favorite editor (VS Code, Cursor, etc.)
   - Create, edit, and manage files
   - List directory contents
   - Move, copy, rename, and delete files
